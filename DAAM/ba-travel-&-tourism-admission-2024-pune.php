@@ -1,5 +1,5 @@
 <?php
-$cname = '18';
+$cname = '1393';
 $urll = basename($_SERVER['PHP_SELF']);
 $words = explode('.', $urll);
 
